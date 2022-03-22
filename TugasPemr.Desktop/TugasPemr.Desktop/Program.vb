@@ -10,7 +10,7 @@ Module Program
         Console.WriteLine("1. Isi Biodata")
         Console.WriteLine("2. Desklarasi Variabel menggunakan GetType()")
         Console.WriteLine("3. Konversi tipe data String ke tipe data lainnya")
-        Console.WriteLine("4. Dummy Login")
+        Console.WriteLine("4. Deklarasi Konstata")
         Console.WriteLine("5. Quit")
         '===================================================================================
 
@@ -70,24 +70,17 @@ Module Program
             Console.WriteLine("Hasil: {0}", hasil)
             Console.ReadLine()
         ElseIf pilih = "4" Then
-            Console.WriteLine("============= Dummy Login ===============")
-            Dim Keyuser As String = "root"
-            Dim Keypass As String = "root123"
-            Dim LogUser, LogPass As String
-            Console.Write("Masukan User: ")
-            LogUser = Console.ReadLine()
-            Console.Write("Masukan Pass: ")
-            LogPass = Console.ReadLine()
-            Console.WriteLine("============================================")
-            If LogUser = Keyuser Then
-                If LogPass = Keypass Then
-                    Console.WriteLine("Login Berhasil")
-                Else
-                    Console.WriteLine("username dan password invalid")
-                End If
-            Else
-                Console.WriteLine("username dan password invalid")
-            End If
+            Console.WriteLine("============= Deklarasi Konstanta ===============")
+            Console.WriteLine("Menghitung Luas lingkaran")
+
+            Const phi As Double = 3.14
+            Dim r, luas As Double
+            Console.Write("Masukan Jari-jari Lingkaran: ")
+            r = Console.ReadLine()
+            luas = phi * r * r
+
+            Console.WriteLine("Hasil Luas lingkaran : {0}", luas)
+            Console.ReadLine()
         ElseIf pilih = "5" Then
             Console.WriteLine("Quit! nuhun bos")
             End
