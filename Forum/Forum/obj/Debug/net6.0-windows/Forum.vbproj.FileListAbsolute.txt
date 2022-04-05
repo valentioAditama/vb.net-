@@ -1,0 +1,16 @@
+C:\Users\valentio\source\repos\Forum\Forum\bin\Debug\net6.0-windows\Forum.exe
+C:\Users\valentio\source\repos\Forum\Forum\bin\Debug\net6.0-windows\Forum.dll
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.vbproj.AssemblyReference.cache
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.Form1.resources
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.Form2.resources
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.Form3.resources
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.Form4.resources
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.Form5.resources
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.vbproj.GenerateResource.cache
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.AssemblyInfoInputs.cache
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.AssemblyInfo.vb
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.vbproj.CoreCompileInputs.cache
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.dll
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\refint\Forum.dll
+C:\Users\valentio\source\repos\Forum\Forum\obj\Debug\net6.0-windows\Forum.pdb
