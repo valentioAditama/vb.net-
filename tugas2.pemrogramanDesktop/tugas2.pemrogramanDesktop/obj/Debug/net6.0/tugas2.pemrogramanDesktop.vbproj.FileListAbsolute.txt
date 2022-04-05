@@ -1,0 +1,15 @@
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\bin\Debug\net6.0\tugas2.pemrogramanDesktop.exe
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\bin\Debug\net6.0\tugas2.pemrogramanDesktop.deps.json
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\bin\Debug\net6.0\tugas2.pemrogramanDesktop.runtimeconfig.json
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\bin\Debug\net6.0\tugas2.pemrogramanDesktop.dll
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\bin\Debug\net6.0\tugas2.pemrogramanDesktop.pdb
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\obj\Debug\net6.0\tugas2.pemrogramanDesktop.vbproj.AssemblyReference.cache
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\obj\Debug\net6.0\tugas2.pemrogramanDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\obj\Debug\net6.0\tugas2.pemrogramanDesktop.AssemblyInfoInputs.cache
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\obj\Debug\net6.0\tugas2.pemrogramanDesktop.AssemblyInfo.vb
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\obj\Debug\net6.0\tugas2.pemrogramanDesktop.vbproj.CoreCompileInputs.cache
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\obj\Debug\net6.0\tugas2.pemrogramanDesktop.dll
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\obj\Debug\net6.0\refint\tugas2.pemrogramanDesktop.dll
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\obj\Debug\net6.0\tugas2.pemrogramanDesktop.pdb
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\obj\Debug\net6.0\tugas2.pemrogramanDesktop.genruntimeconfig.cache
+C:\Users\valentio\source\repos\tugas2.pemrogramanDesktop\tugas2.pemrogramanDesktop\obj\Debug\net6.0\ref\tugas2.pemrogramanDesktop.dll
