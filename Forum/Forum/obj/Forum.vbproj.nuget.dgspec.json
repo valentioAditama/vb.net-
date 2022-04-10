@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\valentio\\source\\repos\\Forum\\Forum\\Forum.vbproj": {}
+    "C:\\Users\\valentio\\Desktop\\coding\\vb.net-\\Forum\\Forum\\Forum.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\valentio\\source\\repos\\Forum\\Forum\\Forum.vbproj": {
+    "C:\\Users\\valentio\\Desktop\\coding\\vb.net-\\Forum\\Forum\\Forum.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\valentio\\source\\repos\\Forum\\Forum\\Forum.vbproj",
+        "projectUniqueName": "C:\\Users\\valentio\\Desktop\\coding\\vb.net-\\Forum\\Forum\\Forum.vbproj",
         "projectName": "Forum",
-        "projectPath": "C:\\Users\\valentio\\source\\repos\\Forum\\Forum\\Forum.vbproj",
+        "projectPath": "C:\\Users\\valentio\\Desktop\\coding\\vb.net-\\Forum\\Forum\\Forum.vbproj",
         "packagesPath": "C:\\Users\\valentio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\valentio\\source\\repos\\Forum\\Forum\\obj\\",
+        "outputPath": "C:\\Users\\valentio\\Desktop\\coding\\vb.net-\\Forum\\Forum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\valentio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net6.0-windows"
+          "net6.0-windows7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -49,15 +49,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            },
-            "Microsoft.WindowsDesktop.App.WindowsForms": {
-              "privateAssets": "none"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
         }
       }
     }

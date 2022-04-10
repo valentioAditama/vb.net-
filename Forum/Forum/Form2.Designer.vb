@@ -41,7 +41,7 @@ Partial Class Form2
         Me.Label1.Font = New System.Drawing.Font("Segoe UI", 19.8!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.Label1.Location = New System.Drawing.Point(287, 45)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(150, 46)
+        Me.Label1.Size = New System.Drawing.Size(147, 45)
         Me.Label1.TabIndex = 0
         Me.Label1.Text = "Register"
         '
