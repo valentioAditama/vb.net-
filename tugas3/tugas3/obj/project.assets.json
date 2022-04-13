@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\tugas3\\tugas3\\tugas3.vbproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\coding\\vb.net-\\tugas3\\tugas3\\tugas3.vbproj",
       "projectName": "tugas3",
-      "projectPath": "C:\\Users\\user\\source\\repos\\tugas3\\tugas3\\tugas3.vbproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\coding\\vb.net-\\tugas3\\tugas3\\tugas3.vbproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\tugas3\\tugas3\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\coding\\vb.net-\\tugas3\\tugas3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",

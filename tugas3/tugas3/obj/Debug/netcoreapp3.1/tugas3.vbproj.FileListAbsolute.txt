@@ -12,3 +12,17 @@ C:\Users\user\source\repos\tugas3\tugas3\obj\Debug\netcoreapp3.1\tugas3.vbproj.C
 C:\Users\user\source\repos\tugas3\tugas3\obj\Debug\netcoreapp3.1\tugas3.dll
 C:\Users\user\source\repos\tugas3\tugas3\obj\Debug\netcoreapp3.1\tugas3.pdb
 C:\Users\user\source\repos\tugas3\tugas3\obj\Debug\netcoreapp3.1\tugas3.genruntimeconfig.cache
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\bin\Debug\netcoreapp3.1\tugas3.exe
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\bin\Debug\netcoreapp3.1\tugas3.deps.json
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\bin\Debug\netcoreapp3.1\tugas3.runtimeconfig.json
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\bin\Debug\netcoreapp3.1\tugas3.runtimeconfig.dev.json
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\bin\Debug\netcoreapp3.1\tugas3.dll
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\bin\Debug\netcoreapp3.1\tugas3.pdb
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\obj\Debug\netcoreapp3.1\tugas3.vbproj.AssemblyReference.cache
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\obj\Debug\netcoreapp3.1\tugas3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\obj\Debug\netcoreapp3.1\tugas3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\obj\Debug\netcoreapp3.1\tugas3.AssemblyInfo.vb
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\obj\Debug\netcoreapp3.1\tugas3.vbproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\obj\Debug\netcoreapp3.1\tugas3.dll
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\obj\Debug\netcoreapp3.1\tugas3.pdb
+C:\Users\user\Desktop\coding\vb.net-\tugas3\tugas3\obj\Debug\netcoreapp3.1\tugas3.genruntimeconfig.cache
